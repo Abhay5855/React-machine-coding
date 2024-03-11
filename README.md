@@ -1,8 +1,3 @@
-# React + Vite
+# React + JS Coding challenges
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Create a stopwatch where initial value of the timer will be 0, Add a single button that would toggle between start and stop, when timer is stopped it should resume from the same value where it was stopped.
